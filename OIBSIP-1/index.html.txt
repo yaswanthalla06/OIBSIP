@@ -1,0 +1,17 @@
+BMI Calculator Project Report
+
+Objective:
+To calculate Body Mass Index and determine health status.
+
+Tools Used: 
+Python – Programming language for calculations and logic
+VS Code – IDE used to write and run Python code
+
+Functionality:
+- Takes height and weight as input
+- Calculates BMI
+- Displays category and health suggestions
+- Handles invalid input using try-except
+
+Conclusion:
+This project helped me understand Python basics, functions, and exception handling.
