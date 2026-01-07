@@ -1,0 +1,19 @@
+Random Password Generator Report
+
+Objective: To create a Python program that generates secure, random passwords based on user-selected criteria like length and character types.
+
+Tools Used: 
+Python – Programming language for calculations and logic
+VS Code – IDE used to write and run Python code
+
+Functionality:
+- Run the Python program.
+- Enter the desired password length.
+- Choose whether to include letters, numbers, and symbols by typing yes or no.
+- The program will generate and display a random password.
+
+Conclusion:
+=> Understanding randomization in Python.
+=> Working with strings and character sets.
+=> Handling user input and exceptions.
+=> Using Boolean variables to control program logic.
