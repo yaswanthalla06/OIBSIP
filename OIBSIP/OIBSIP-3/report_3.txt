@@ -1,0 +1,23 @@
+Basic Weather Application
+
+Objective: 
+1. The objective of this project is to create a simple Python application that retrieves real-time weather information for a given city using an API.
+2. This project helps in understanding how to work with APIs, handle JSON data, and display useful information to the user.
+
+Tools Used: 
+Python – Programming language for logic
+Requests Library – Used to send HTTP requests to the weather API
+VS Code – IDE used to write and run Python code
+OpenWeatherMap API – Provides real time weather data
+
+Functionality:
+- Connects to the OpenWeatherMap API using an API key
+- Fetches real-time weather data for the entered city
+- Displays the current temperature in Celsius
+- Displays a brief weather description
+- Handles invalid city names and shows an error message
+
+Conclusion:
+This project successfully demonstrates how Python can be used to access live weather data through the OpenWeatherMap API.
+By taking user input and displaying the current temperature and weather description, the program provides accurate and real-time information.
+It also improves basic programming skills such as API handling, error checking, and data processing.
